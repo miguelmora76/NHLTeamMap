@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NHL Team Map</string>
+    <string name="was">Washington Capitals</string>
+    <string name="ana">Anaheim Ducks</string>
+    <string name="bos">Boston Bruins</string>
+    <string name="buf">Buffalo Sabres</string>
+    <string name="car">Carolina Hurricanes</string>
+    <string name="col">Colorado Avalanche</string>
+    <string name="cbj">Columbus Blue Jackets</string>
+    <string name="det">Detroit Red Wings</string>
+    <string name="dal">Dallas Stars</string>
+    <string name="lak">Los Angeles Kings</string>
+    <string name="mon">Montreal Canadiens</string>
+    <string name="nas">Nashville Predators</string>
+    <string name="ott">Ottawa Senators</string>
+    <string name="phi">Philadelphia Flyers</string>
+    <string name="pit">Pittsburgh Penguins</string>
+    <string name="sjs">San Jose Sharks</string>
+    <string name="stl">St. Louis Blues</string>
+    <string name="tbl">Tampa Bay Lightning</string>
+    <string name="van">Vancouver Canucks</string>
+    <string name="wpg">Winnipeg Jets</string>
+    <string name="nj">New Jersey Devils</string>
+    <string name="nyi">New York Islanders</string>
+    <string name="nyr">New York Rangers</string>
+    <string name="tor">Toronto Maple Leafs</string>
+    <string name="chi">Chicago Blackhawks</string>
+    <string name="pho">Phoenix Coyotes</string>
+    <string name="fla">Florida Panthers</string>
+    <string name="min">Minnesota Wild</string>
+    <string name="edm">Edmonton Oilers</string>
+    <string name="cgy">Calgary Flames</string>
+    <string name="MAP_TYPE_NORMAL">Normal</string>
+    <string name="MAP_TYPE_HYBRID">Hybrid</string>
+    <string name="MAP_TYPE_SATELLITE">Satellite</string>
+    <string name="MAP_TYPE_TERRAIN">Terrain</string>
+    <string name="ALL_TEAMS">All Teams</string>
+    <string name="EASTERN_CONFERENCE">Eastern</string>
+    <string name="WESTERN_CONFERENCE">Western</string>
+    <string name="DIVISION_A">Pacific Division</string>
+    <string name="DIVISION_B">Central Division</string>
+    <string name="DIVISION_C">Atlantic Division</string>
+    <string name="DIVISION_D">Metropolitan Division</string>
+    <string name="MAP_MENU_TITLE">Map Type</string>
+    <string name="FILTER_TEAM_MENU_TITLE">Team Filter</string>
+    <string name="WIFI_ENABLED">Wifi enabled</string>
+    <string name="MOBILE_ENABLED">Mobile data enabled</string>
+    <string name="NOT_CONNECTED">Not connected to Internet</string>
+
+    <array name="logos_names_array">
+        <item>@string/was</item>
+        <item>@string/ana</item>
+        <item>@string/bos</item>
+        <item>@string/buf</item>
+        <item>@string/car</item>
+        <item>@string/col</item>
+        <item>@string/cbj</item>
+        <item>@string/det</item>
+        <item>@string/dal</item>
+        <item>@string/lak</item>
+        <item>@string/mon</item>
+        <item>@string/nas</item>
+        <item>@string/ott</item>
+        <item>@string/phi</item>
+        <item>@string/pit</item>
+        <item>@string/sjs</item>
+        <item>@string/stl</item>
+        <item>@string/tbl</item>
+        <item>@string/van</item>
+        <item>@string/wpg</item>
+        <item>@string/nj</item>
+        <item>@string/nyi</item>
+        <item>@string/nyr</item>
+        <item>@string/tor</item>
+        <item>@string/chi</item>
+        <item>@string/pho</item>
+        <item>@string/fla</item>
+        <item>@string/min</item>
+        <item>@string/edm</item>
+        <item>@string/cgy</item>
+    </array>
+
+    <string-array name="conference_names">
+        <item>@string/EASTERN_CONFERENCE</item>
+        <item>@string/WESTERN_CONFERENCE</item>
+    </string-array>
+
+    <string-array name="division_names">
+        <item>@string/DIVISION_A</item>
+        <item>@string/DIVISION_B</item>
+        <item>@string/DIVISION_C</item>
+        <item>@string/DIVISION_D</item>
+    </string-array>
+</resources>

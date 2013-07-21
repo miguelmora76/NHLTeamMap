@@ -1,0 +1,956 @@
+{
+  "sports": [
+    {
+      "name": "hockey",
+      "id": 70,
+      "uid": "s:70",
+      "leagues": [
+        {
+          "name": "National Hockey League",
+          "abbreviation": "nhl",
+          "id": 90,
+          "uid": "s:70~l:90",
+          "groupId": 9,
+          "shortName": "NHL",
+          "teams": [
+            {
+              "id": 1,
+              "uid": "s:70~l:90~t:1",
+              "location": "Boston",
+              "name": "Bruins",
+              "abbreviation": "BOS",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/1"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/1\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/1\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/bos\/boston-bruins?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=1&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "uid": "s:70~l:90~t:2",
+              "location": "Buffalo",
+              "name": "Sabres",
+              "abbreviation": "BUF",
+              "color": "003366",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/2"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/2\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/2\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/buf\/buffalo-sabres?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=2&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "uid": "s:70~l:90~t:3",
+              "location": "Calgary",
+              "name": "Flames",
+              "abbreviation": "CGY",
+              "color": "E2373F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/3"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/3\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/3\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/cgy\/calgary-flames?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=3&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "uid": "s:70~l:90~t:4",
+              "location": "Chicago",
+              "name": "Blackhawks",
+              "abbreviation": "CHI",
+              "color": "E2373F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/4"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/4\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/4\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/chi\/chicago-blackhawks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=4&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5,
+              "uid": "s:70~l:90~t:5",
+              "location": "Detroit",
+              "name": "Red Wings",
+              "abbreviation": "DET",
+              "color": "ED171F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/5"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/5\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/5\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/det\/detroit-red-wings?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=5&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6,
+              "uid": "s:70~l:90~t:6",
+              "location": "Edmonton",
+              "name": "Oilers",
+              "abbreviation": "EDM",
+              "color": "06143F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/6"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/6\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/6\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/edm\/edmonton-oilers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=6&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 7,
+              "uid": "s:70~l:90~t:7",
+              "location": "Carolina",
+              "name": "Hurricanes",
+              "abbreviation": "CAR",
+              "color": "D72D35",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/7"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/7\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/7\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/car\/carolina-hurricanes?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=7&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 8,
+              "uid": "s:70~l:90~t:8",
+              "location": "Los Angeles",
+              "name": "Kings",
+              "abbreviation": "LA",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/8"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/8\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/8\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/la\/los-angeles-kings?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=8&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 9,
+              "uid": "s:70~l:90~t:9",
+              "location": "Dallas",
+              "name": "Stars",
+              "abbreviation": "DAL",
+              "color": "003921",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/9"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/9\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/9\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/dal\/dallas-stars?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=9&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 10,
+              "uid": "s:70~l:90~t:10",
+              "location": "Montreal",
+              "name": "Canadiens",
+              "abbreviation": "MTL",
+              "color": "C1131E",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/10"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/10\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/10\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/mtl\/montreal-canadiens?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=10&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 11,
+              "uid": "s:70~l:90~t:11",
+              "location": "New Jersey",
+              "name": "Devils",
+              "abbreviation": "NJ",
+              "color": "ED171F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/11"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/11\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/11\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/nj\/new-jersey-devils?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=11&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 12,
+              "uid": "s:70~l:90~t:12",
+              "location": "New York",
+              "name": "Islanders",
+              "abbreviation": "NYI",
+              "color": "06143F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/12"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/12\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/12\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/nyi\/new-york-islanders?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=12&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 13,
+              "uid": "s:70~l:90~t:13",
+              "location": "New York",
+              "name": "Rangers",
+              "abbreviation": "NYR",
+              "color": "0B3D91",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/13"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/13\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/13\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/nyr\/new-york-rangers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=13&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 14,
+              "uid": "s:70~l:90~t:14",
+              "location": "Ottawa",
+              "name": "Senators",
+              "abbreviation": "OTT",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/14"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/14\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/14\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/ott\/ottawa-senators?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=14&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 15,
+              "uid": "s:70~l:90~t:15",
+              "location": "Philadelphia",
+              "name": "Flyers",
+              "abbreviation": "PHI",
+              "color": "FD5A1E",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/15"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/15\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/15\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/phi\/philadelphia-flyers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=15&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 16,
+              "uid": "s:70~l:90~t:16",
+              "location": "Pittsburgh",
+              "name": "Penguins",
+              "abbreviation": "PIT",
+              "color": "C3B263",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/16"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/16\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/16\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/pit\/pittsburgh-penguins?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=16&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 17,
+              "uid": "s:70~l:90~t:17",
+              "location": "Colorado",
+              "name": "Avalanche",
+              "abbreviation": "COL",
+              "color": "AB2842",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/17"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/17\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/17\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/col\/colorado-avalanche?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=17&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 18,
+              "uid": "s:70~l:90~t:18",
+              "location": "San Jose",
+              "name": "Sharks",
+              "abbreviation": "SJ",
+              "color": "00535E",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/18"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/18\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/18\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/sj\/san-jose-sharks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=18&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 19,
+              "uid": "s:70~l:90~t:19",
+              "location": "St. Louis",
+              "name": "Blues",
+              "abbreviation": "STL",
+              "color": "0C2D83",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/19"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/19\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/19\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/stl\/st-louis-blues?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=19&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 20,
+              "uid": "s:70~l:90~t:20",
+              "location": "Tampa Bay",
+              "name": "Lightning",
+              "abbreviation": "TB",
+              "color": "857C7A",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/20"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/20\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/20\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/tb\/tampa-bay-lightning?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=20&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 21,
+              "uid": "s:70~l:90~t:21",
+              "location": "Toronto",
+              "name": "Maple Leafs",
+              "abbreviation": "TOR",
+              "color": "091C5A",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/21"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/21\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/21\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/tor\/toronto-maple-leafs?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=21&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 22,
+              "uid": "s:70~l:90~t:22",
+              "location": "Vancouver",
+              "name": "Canucks",
+              "abbreviation": "VAN",
+              "color": "021A33",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/22"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/22\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/22\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/van\/vancouver-canucks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=22&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 23,
+              "uid": "s:70~l:90~t:23",
+              "location": "Washington",
+              "name": "Capitals",
+              "abbreviation": "WSH",
+              "color": "002d62",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/23"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/23\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/23\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/wsh\/washington-capitals?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=23&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 24,
+              "uid": "s:70~l:90~t:24",
+              "location": "Phoenix",
+              "name": "Coyotes",
+              "abbreviation": "PHX",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/24"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/24\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/24\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/phx\/phoenix-coyotes?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=24&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 25,
+              "uid": "s:70~l:90~t:25",
+              "location": "Anaheim",
+              "name": "Ducks",
+              "abbreviation": "ANA",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/25"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/25\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/25\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/ana\/anaheim-ducks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=25&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 26,
+              "uid": "s:70~l:90~t:26",
+              "location": "Florida",
+              "name": "Panthers",
+              "abbreviation": "FLA",
+              "color": "ED171F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/26"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/26\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/26\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/fla\/florida-panthers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=26&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 27,
+              "uid": "s:70~l:90~t:27",
+              "location": "Nashville",
+              "name": "Predators",
+              "abbreviation": "NSH",
+              "color": "06143F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/27"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/27\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/27\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/nsh\/nashville-predators?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=27&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 28,
+              "uid": "s:70~l:90~t:28",
+              "location": "Winnipeg",
+              "name": "Jets",
+              "abbreviation": "WPG",
+              "color": "00265D",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/28"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/28\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/28\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/wpg\/winnipeg-jets?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=28&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 29,
+              "uid": "s:70~l:90~t:29",
+              "location": "Columbus",
+              "name": "Blue Jackets",
+              "abbreviation": "CBJ",
+              "color": "002d62",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/29"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/29\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/29\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/cbj\/columbus-blue-jackets?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=29&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 30,
+              "uid": "s:70~l:90~t:30",
+              "location": "Minnesota",
+              "name": "Wild",
+              "abbreviation": "MIN",
+              "color": "003822",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/30"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/30\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/hockey\/nhl\/teams\/30\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nhl\/team\/_\/name\/min\/minnesota-wild?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nhl\/clubhouse?teamId=30&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resultsOffset": 0,
+  "resultsLimit": 50,
+  "resultsCount": 30,
+  "timestamp": "2013-07-18T15:25:12Z",
+  "status": "success"
+}

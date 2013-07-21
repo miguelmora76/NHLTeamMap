@@ -1,0 +1,956 @@
+{
+  "sports": [
+    {
+      "name": "basketball",
+      "id": 40,
+      "uid": "s:40",
+      "leagues": [
+        {
+          "name": "National Basketball Assoc.",
+          "abbreviation": "nba",
+          "id": 46,
+          "uid": "s:40~l:46",
+          "groupId": 7,
+          "shortName": "NBA",
+          "teams": [
+            {
+              "id": 1,
+              "uid": "s:40~l:46~t:1",
+              "location": "Atlanta",
+              "name": "Hawks",
+              "abbreviation": "ATL",
+              "color": "002B5C",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/1"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/1\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/1\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/atl\/atlanta-hawks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=1&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 2,
+              "uid": "s:40~l:46~t:2",
+              "location": "Boston",
+              "name": "Celtics",
+              "abbreviation": "BOS",
+              "color": "006532",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/2"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/2\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/2\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/bos\/boston-celtics?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=2&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "uid": "s:40~l:46~t:3",
+              "location": "New Orleans",
+              "name": "Pelicans",
+              "abbreviation": "NO",
+              "color": "0093B1",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/3"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/3\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/3\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/no\/new-orleans-pelicans?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=3&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "uid": "s:40~l:46~t:4",
+              "location": "Chicago",
+              "name": "Bulls",
+              "abbreviation": "CHI",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/4"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/4\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/4\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/chi\/chicago-bulls?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=4&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5,
+              "uid": "s:40~l:46~t:5",
+              "location": "Cleveland",
+              "name": "Cavaliers",
+              "abbreviation": "CLE",
+              "color": "061642",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/5"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/5\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/5\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/cle\/cleveland-cavaliers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=5&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6,
+              "uid": "s:40~l:46~t:6",
+              "location": "Dallas",
+              "name": "Mavericks",
+              "abbreviation": "DAL",
+              "color": "0C479D",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/6"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/6\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/6\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/dal\/dallas-mavericks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=6&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 7,
+              "uid": "s:40~l:46~t:7",
+              "location": "Denver",
+              "name": "Nuggets",
+              "abbreviation": "DEN",
+              "color": "0860A8",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/7"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/7\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/7\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/den\/denver-nuggets?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=7&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 8,
+              "uid": "s:40~l:46~t:8",
+              "location": "Detroit",
+              "name": "Pistons",
+              "abbreviation": "DET",
+              "color": "FA002C",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/8"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/8\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/8\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/det\/detroit-pistons?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=8&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 9,
+              "uid": "s:40~l:46~t:9",
+              "location": "Golden State",
+              "name": "Warriors",
+              "abbreviation": "GS",
+              "color": "00275D",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/9"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/9\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/9\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/gs\/golden-state-warriors?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=9&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 10,
+              "uid": "s:40~l:46~t:10",
+              "location": "Houston",
+              "name": "Rockets",
+              "abbreviation": "HOU",
+              "color": "D40026",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/10"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/10\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/10\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/hou\/houston-rockets?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=10&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 11,
+              "uid": "s:40~l:46~t:11",
+              "location": "Indiana",
+              "name": "Pacers",
+              "abbreviation": "IND",
+              "color": "061642",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/11"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/11\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/11\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/ind\/indiana-pacers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=11&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 12,
+              "uid": "s:40~l:46~t:12",
+              "location": "Los Angeles",
+              "name": "Clippers",
+              "abbreviation": "LAC",
+              "color": "FA0028",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/12"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/12\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/12\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/lac\/los-angeles-clippers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=12&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 13,
+              "uid": "s:40~l:46~t:13",
+              "location": "Los Angeles",
+              "name": "Lakers",
+              "abbreviation": "LAL",
+              "color": "542582",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/13"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/13\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/13\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/lal\/los-angeles-lakers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=13&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 14,
+              "uid": "s:40~l:46~t:14",
+              "location": "Miami",
+              "name": "Heat",
+              "abbreviation": "MIA",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/14"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/14\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/14\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/mia\/miami-heat?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=14&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 15,
+              "uid": "s:40~l:46~t:15",
+              "location": "Milwaukee",
+              "name": "Bucks",
+              "abbreviation": "MIL",
+              "color": "003813",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/15"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/15\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/15\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/mil\/milwaukee-bucks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=15&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 16,
+              "uid": "s:40~l:46~t:16",
+              "location": "Minnesota",
+              "name": "Timberwolves",
+              "abbreviation": "MIN",
+              "color": "0E3764",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/16"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/16\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/16\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/min\/minnesota-timberwolves?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=16&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 17,
+              "uid": "s:40~l:46~t:17",
+              "location": "Brooklyn",
+              "name": "Nets",
+              "abbreviation": "BKN",
+              "color": "06143F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/17"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/17\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/17\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/bkn\/brooklyn-nets?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=17&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 18,
+              "uid": "s:40~l:46~t:18",
+              "location": "New York",
+              "name": "Knicks",
+              "abbreviation": "NY",
+              "color": "225EA8",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/18"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/18\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/18\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/ny\/new-york-knicks?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=18&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 19,
+              "uid": "s:40~l:46~t:19",
+              "location": "Orlando",
+              "name": "Magic",
+              "abbreviation": "ORL",
+              "color": "0860A8",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/19"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/19\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/19\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/orl\/orlando-magic?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=19&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 20,
+              "uid": "s:40~l:46~t:20",
+              "location": "Philadelphia",
+              "name": "76ers",
+              "abbreviation": "PHI",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/20"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/20\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/20\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/phi\/philadelphia-76ers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=20&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 21,
+              "uid": "s:40~l:46~t:21",
+              "location": "Phoenix",
+              "name": "Suns",
+              "abbreviation": "PHX",
+              "color": "23006A",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/21"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/21\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/21\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/phx\/phoenix-suns?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=21&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 22,
+              "uid": "s:40~l:46~t:22",
+              "location": "Portland",
+              "name": "Trail Blazers",
+              "abbreviation": "POR",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/22"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/22\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/22\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/por\/portland-trail-blazers?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=22&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 23,
+              "uid": "s:40~l:46~t:23",
+              "location": "Sacramento",
+              "name": "Kings",
+              "abbreviation": "SAC",
+              "color": "393996",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/23"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/23\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/23\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/sac\/sacramento-kings?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=23&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 24,
+              "uid": "s:40~l:46~t:24",
+              "location": "San Antonio",
+              "name": "Spurs",
+              "abbreviation": "SA",
+              "color": "000000",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/24"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/24\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/24\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/sa\/san-antonio-spurs?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=24&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 25,
+              "uid": "s:40~l:46~t:25",
+              "location": "Oklahoma City",
+              "name": "Thunder",
+              "abbreviation": "OKC",
+              "color": "C67C03",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/25"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/25\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/25\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/okc\/oklahoma-city-thunder?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=25&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 26,
+              "uid": "s:40~l:46~t:26",
+              "location": "Utah",
+              "name": "Jazz",
+              "abbreviation": "UTAH",
+              "color": "06143F",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/26"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/26\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/26\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/utah\/utah-jazz?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=26&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 27,
+              "uid": "s:40~l:46~t:27",
+              "location": "Washington",
+              "name": "Wizards",
+              "abbreviation": "WSH",
+              "color": "0E3764",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/27"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/27\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/27\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/wsh\/washington-wizards?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=27&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 28,
+              "uid": "s:40~l:46~t:28",
+              "location": "Toronto",
+              "name": "Raptors",
+              "abbreviation": "TOR",
+              "color": "CE0F41",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/28"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/28\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/28\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/tor\/toronto-raptors?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=28&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 29,
+              "uid": "s:40~l:46~t:29",
+              "location": "Memphis",
+              "name": "Grizzlies",
+              "abbreviation": "MEM",
+              "color": "5D76A8",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/29"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/29\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/29\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/mem\/memphis-grizzlies?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=29&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 30,
+              "uid": "s:40~l:46~t:30",
+              "location": "Charlotte",
+              "name": "Bobcats",
+              "abbreviation": "CHA",
+              "color": "FE3310",
+              "links": {
+                "api": {
+                  "teams": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/30"
+                  },
+                  "news": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/30\/news"
+                  },
+                  "notes": {
+                    "href": "http:\/\/api.espn.com\/v1\/sports\/basketball\/nba\/teams\/30\/news\/notes"
+                  }
+                },
+                "web": {
+                  "teams": {
+                    "href": "http:\/\/espn.go.com\/nba\/team\/_\/name\/cha\/charlotte-bobcats?ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "teams": {
+                    "href": "http:\/\/m.espn.go.com\/nba\/clubhouse?teamId=30&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resultsOffset": 0,
+  "resultsLimit": 50,
+  "resultsCount": 30,
+  "timestamp": "2013-07-18T15:26:51Z",
+  "status": "success"
+}
