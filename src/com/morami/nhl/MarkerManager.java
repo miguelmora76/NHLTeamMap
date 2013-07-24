@@ -83,7 +83,7 @@ public class MarkerManager implements GoogleMap.OnMarkerClickListener{
     }
 
     public void clickedInfoWindow(Marker marker){
-        float zoomLevel = isZoomedIn ? 17.0f : 0;
+        float zoomLevel = isZoomedIn == true ? 0 : 17.0f;
 
         teamMap.animateCamera(CameraUpdateFactory.newLatLngZoom(marker.getPosition(), zoomLevel));
 
